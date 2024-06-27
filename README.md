@@ -29,11 +29,10 @@
 </div>
 
 ### contact
-[<img align="left" alt="tuan0324_email" width="48" src="https://img.icons8.com/emoji/48/e-mail.png" />][email]
+<a href="mailto:jhmh0226@gmail.com"><img align="left" alt="tuan0324_email" width="48" src="https://img.icons8.com/emoji/48/e-mail.png" /></a>
 [<img align="left" alt="tuan0324_blog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][blog]
 [<img align="left" alt="tuan0324_instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[email]: https://matilto:jhmh0226@gmail.com
 [blog]: https://velog.io/@jnghoon_2
 [instagram]: https://instagram.com/jnghoon_2
 
