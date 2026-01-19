@@ -1,42 +1,71 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JngHoon's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tuan0324&descAlignY=53&descAlign=88"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JngHoon's%20github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Tuan0324&descAlignY=53&descAlign=88"/> -->
 
-##  Welcome&nbsp;to&nbsp;Jeong&nbsp;Hoon's&nbsp;Github👋
+##  Welcome
 안녕하세요! 이정훈(Tuan)입니다!
 
 ### Who Am I
-- 🏠 Live in Gwanak-gu, Seoul, Republic of Korea
-- 🥇 Majored in Medical IT
-- 📱 My dream is to conquer mobile development 
+- 🏠 대한민국, 서울특별시 관악구 거주
+- 🥇 의료IT공학(컴퓨터공학) 전공
+- 📱 편한 동료, 같이 일하고 싶은 개발자를 추구합니다.
 
 ### Experience
-- 🏫 Yongsan High School (2015.03 ~ 2017.02)
-- 🎓 Konyang University, Medical Infomartion Technology (2017.03 ~ 2023.02)
-- 🪖 771st Signal Battalion, 7th Army Corps (2019.01 ~ 2020.08)
-- 📖 Korea Global Knowledge, Part Time Job (2022.01 ~ 2022.03)
-- 👁️ idynamics, Developer(Mobile) (2023.03 ~ )
+- 👁️ 아이다이나믹스(현 픽클헬스케어), 모바일 리드 개발 (2023.03 ~ 25.10)
+- 📖 한국글로벌널리지, 기간제 보조 강사 (2022.01 ~ 2022.03)
+- 🪖 제7기동군단 771통신대대 (2019.01 ~ 2020.08)
+- 🎓 건양대학교, 의료IT공학과 (2017.03 ~ 2023.02)
+- 🏫 용산고등학교 (2015.03 ~ 2017.02)
 
 ### Languages and Tools
-<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/> </tr>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+
+### More Info
+
+<table border="1">
+  <tr>
+    <td rowspan="3" align="center" valign="middle">
+      <img alt="tuan0324_instagram" width="48px" src="https://simpleicons.org/icons/instagram.svg" />
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.instagram.com/jngHoon_2" target="_blank" style="text-decoration: none; color: inherit;">일반 계정</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.instagram.com/jngHoon_log" target="_blank" style="text-decoration: none; color: inherit;">기록 계정</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://www.instagram.com/m.dev_tuan" target="_blank" style="text-decoration: none; color: inherit;">개발 계정(공사중)</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center" valign="middle">
+      <img alt="velog" width="48px" src="https://simpleicons.org/icons/velog.svg" />
+    </td>
+    <td style="text-align: center;">
+      <a href="https://velog.io/@jnghoon_2/" target="_blank" style="text-decoration: none; color: inherit;">벨로그(공사중)</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="1" align="center" valign="middle">
+      <img alt="obsidian" width="48px" src="https://simpleicons.org/icons/obsidian.svg" />
+    </td>
+    <td style="text-align: center;">
+      <a href="https://tuan0324.netlify.app/" target="_blank" style="text-decoration: none; color: inherit;">개발 아카이브</a>
+    </td>
+  </tr>
+</table>
 
 
-### Github Activity
-<div style="display: flex, height:180px">
-<a href="https://github.com/JngHoon2"><img align="center" style="width: 49%; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=JngHoon2&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="JngHoon2's github stats" /></a>
-<a href="https://github.com/JngHoon2"><img align="center" style="width: 49%; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JngHoon2&layout=compact&theme=nord&hide_border=true" /></a>
-</div>
 
 ### contact
-<a href="mailto:jhmh0226@gmail.com"><img align="left" alt="tuan0324_email" width="48" src="https://img.icons8.com/emoji/48/e-mail.png" /></a>
-[<img align="left" alt="tuan0324_blog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][blog]
-[<img align="left" alt="tuan0324_instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+jhmh0226@gmail.com
 
-[blog]: https://velog.io/@jnghoon_2
-[instagram]: https://instagram.com/jnghoon_2
-
-<!-- 
-[<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[linkedin]: https://linkedin.com/in/
--->
+오류 지적 및 문의 환영합니다.
