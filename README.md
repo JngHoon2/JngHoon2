@@ -49,7 +49,7 @@
       <img alt="velog" width="48px" src="https://simpleicons.org/icons/velog.svg" />
     </td>
     <td style="text-align: center;">
-      <a href="https://velog.io/@jnghoon_2/" target="_blank" style="text-decoration: none; color: inherit;">벨로그(공사중)</a>
+      <a href="https://velog.io/@jnghoon_2/" target="_blank" style="text-decoration: none; color: inherit;">벨로그</a>
     </td>
   </tr>
 
